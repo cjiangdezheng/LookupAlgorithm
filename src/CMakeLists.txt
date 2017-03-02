@@ -6,6 +6,8 @@ add_subdirectory(Hash)
 add_subdirectory(Fibonacci)
 add_subdirectory(Bisearch)
 add_subdirectory(InsertValue)
+add_subdirectory(Order)
+add_subdirectory(Block)
 
 
 
